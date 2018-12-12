@@ -1,0 +1,18 @@
+.main{
+    margin:5%;
+}
+.SearchInput{
+    border: 1px solid;
+    height:400px;
+    width:48%;
+    float: left;
+    text-align: center;
+}
+.List{
+    border: 1px solid;
+    height:400px;
+    width:48%;  
+    float: left;
+    text-align: center;
+
+}
